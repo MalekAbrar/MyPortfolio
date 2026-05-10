@@ -7,11 +7,11 @@ export const personalData = {
   phone: '+91 9426403370',
   address: 'Gopi Pura Momnawad Surat 395002 ',
   github: 'https://github.com/MalekAbrar',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
+  facebook: 'https://www.facebook.com/',
   linkedIn: 'https://www.linkedin.com/in/abrar-malek-024018308/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  twitter: 'https://twitter.com/',
+  // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+  // leetcode: "https://leetcode.com/said3812/",
+  // devUsername: "said7388",
   resume: "https://drive.google.com/file/d/1ykNmcAVdRXxhyZucC0D1IhX_KR6NBZxQ/view?usp=drivesdk"
 }
